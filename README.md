@@ -1,27 +1,31 @@
-## Hi there 👋
-<!-- README.md for your GitHub Profile -->
-
 # Hi there 👋, I'm Lei!
 
-## 🌱 About Me
+## 🎓 Education
 
+- 🎓 **Bachelor's Degree**
+  - **School**: Hainan University
+  - **Major**: Ocean Engineering and Technology
+  - **Graduation**: July 2024
+
+- 🎓 **Master's Degree**
+  - **School**: Hunan University
+  - **Major**: Engineering Mechanics
+  - **Graduation**: In Progress
+- ## 🌱 About Me
 - 🎓 **ESL Learner**: Beginner level, practicing English through interactive role-play.
-- 🌏 **Location**: A small city in Hunan Province, China.
+- 🌏 **Location**: Changsha city in Hunan Province, China.
 - 💻 **Currently Working On**:
   - Machine Learning research: dynamic models inspired by biological intelligence.
   - Computer Vision projects using Transformer-based architectures.
 - ✨ **Interests**: Swarm intelligence, spiking neural networks, XGBoost, ChatGPT integrations.
-- 🍵 **Favorite Drink**: Green tea with ginger & peanut infusion from my hometown.
-- 🌶️ **Foodie**: Love spicy and fried dishes (Mapo Tofu, green pepper fried meat), and croissants.
 
 ## 📂 Projects
 *(Currently building... Stay tuned for upcoming projects!)*
 
-
 ## 🛠️ Tech Stack
 
-- **Languages**: Python · Swift · Markdown · SQL
-- **Frameworks & Tools**: TensorFlow · PyTorch · XGBoost · SwiftUI · Xcode · GitHub Actions
+- **Languages**: Python · Swift · Markdown · Matlab · R
+- **Frameworks & Tools**: TensorFlow · PyTorch · XGBoost · SwiftUI · Xcode · VASP · Solidworks
 
 ## 📊 GitHub Stats & Visitor Count
 
