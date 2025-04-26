@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Lei!
 
-## 🎓 Education
-
+## 🌱 About Me
 - 🎓 **Bachelor's Degree**
   - **School**: Hainan University
   - **Major**: Ocean Engineering and Technology
@@ -11,7 +10,6 @@
   - **School**: Hunan University
   - **Major**: Engineering Mechanics
   - **Graduation**: In Progress
-- ## 🌱 About Me
 - 🎓 **ESL Learner**: Beginner level, practicing English through interactive role-play.
 - 🌏 **Location**: Changsha city in Hunan Province, China.
 - 💻 **Currently Working On**:
